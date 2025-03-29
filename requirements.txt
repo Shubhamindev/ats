@@ -1,2 +1,5 @@
-flask
+Flask
 gunicorn
+flask-cors
+pickle-mixin
+PyPDF2
